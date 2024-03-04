@@ -1,4 +1,5 @@
 Overview 
+
 Welcome to WeatherApp, a simple and user-friendly weather application powered by the OpenWeatherMap API. 
 This application allows users to search for any city and retrieve real-time weather information, including coordinates, temperature, humidity, pressure, and wind speed. The design is kept minimalistic for ease of use.
 
