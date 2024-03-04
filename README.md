@@ -8,7 +8,7 @@ This application allows users to search for any city and retrieve real-time weat
 City Search: Users can search for any city to get detailed weather information. Real-time Data: The app provides real-time weather data fetched from the OpenWeatherMap API. 
 Temperature, Humidity, Pressure, and Wind Speed: Detailed information about the current weather conditions. User-Friendly Design: The app is designed with simplicity in mind for a seamless user experience. How to Use Clone the Repository:
 
-## Copy code git clone https://github.com/your-username/WeatherApp.git cd WeatherApp Install Dependencies:
+ Copy code git clone https://github.com/your-username/WeatherApp.git cd WeatherApp Install Dependencies:
 
 Copy code 
 npm install 
